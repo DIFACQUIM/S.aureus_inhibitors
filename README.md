@@ -31,7 +31,7 @@ The newly designed libraries were further evaluated using the cumulative distrib
 ## **Requirements**
 To run the notebook, install the following dependencies:
 ```bash
-pip install pycaret deepchem scikit-learn pandas numpy matplotlib seaborn
+pip install chembl-webresource-client matplotlib Python numpy seaborn molplotly kaleido scipy pillow plotly yellowbrick datamol rdkit scipy
 ```
 ## **Usage**
 1. Open the Jupyter Notebooks:
