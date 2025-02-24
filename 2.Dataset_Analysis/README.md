@@ -19,5 +19,5 @@ Visualization of biological assays, t-SNE, and PMI plots were computed on Python
 Alberto Marban Gonzalez adapted the t-SNE notebook from [MAYA on GitHub](https://github.com/IsrC11/MAYA/tree/44661380db69df87131c8dd5315a24debe5e6020).
 
 ## Reference
-Espinoza-Castañeda, J. I., & Medina-Franco, J. L. (2025). MAYA (Multiple ActivitY Analyzer): An Open Access Tool to Explore Structure Multiple Activity Relationships in the Chemical Universe. *Molecular Informatics*, 44(2), e202400306. [https://doi.org/10.26434/chemrxiv-2024-8l14c](https://doi.org/10.26434/chemrxiv-2024-8l14c)
-
+- Espinoza-Castañeda, J. I., & Medina-Franco, J. L. (2025). *MAYA (Multiple ActivitY Analyzer): An Open Access Tool to Explore Structure Multiple Activity Relationships in the Chemical Universe*. Molecular Informatics, 44(2), e202400306. [https://doi.org/10.26434/chemrxiv-2024-8l14c](https://doi.org/10.26434/chemrxiv-2024-8l14c)
+- Saldívar-González, F. I., Navarrete-Vázquez, G., & Medina-Franco, J. L. (2023). *Design of a multi-target focused library for antidiabetic targets using a comprehensive set of chemical transformation rules*. Frontiers in Pharmacology, 14. https://doi.org/10.3389/fphar.2023.1276444
