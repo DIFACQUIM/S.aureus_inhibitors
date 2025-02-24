@@ -38,8 +38,6 @@ pip install chembl-webresource-client matplotlib Python numpy seaborn molplotly 
 2. Run the notebook cells sequentially.
 3. Review results and visualization outputs.
 
-## **Results**
-
 ## **License**
 This project is for research purposes only. Please cite appropriately if used in publications.
 
