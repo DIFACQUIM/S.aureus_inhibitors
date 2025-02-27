@@ -4,16 +4,16 @@ The next notebooks were used to construct machine learning (ML) models. Molecula
 Some scripts (notebooks 5.1 and 5.3) were adapted from Patrick Walters Github https://github.com/PatWalters/practical_cheminformatics_tutorials
 
 ### 5.1 Descriptor and Fingerprint Calculations with Molfeat (the same script was used in *S. aureus* dataset).
-### 5.2 Identification of Redundant Features.
-### 5.3 Training SVR Model External Validation Using *S. aureus* Dataset
+### 5.2 Training SVR Model External Validation Using *S. aureus* Dataset
 Cross-validation and error metrics calculations. In this same notebook, the ppIC<sub>50</sub> was calculated for the designed libraries (INDDS, DIADS, and PYRDS) obtained from transformation rules (calculations computed in MOE 2024).
 
-### 5.4 Training RR Model External Validation Using *S. aureus* Dataset
+### 5.3 Training RR Model External Validation Using *S. aureus* Dataset
 Cross-validation and error metrics calculations. In this same notebook, the ppIC<sub>50</sub> was calculated for the designed libraries (INDDS, DIADS, and PYRDS) obtained from transformation rules (calculations computed in MOE 2024).
 
-### 5.5 Training RFR Model External Validation Using *S. aureus* Dataset
+### 5.4 Training RFR Model External Validation Using *S. aureus* Dataset
 Cross-validation and error metrics calculations. In this same notebook, the ppIC<sub>50</sub> was calculated for the designed libraries (INDDS, DIADS, and PYRDS) obtained from transformation rules (calculations computed in MOE 2024).
 
+### 5.5 Example of the Designed Libraries.
 
 ## Methodology
 The descriptor and fingerprint calculations, identification of redundant features, and ppIC50 calculations were computed on Python 3.12.7 with the following libraries:
