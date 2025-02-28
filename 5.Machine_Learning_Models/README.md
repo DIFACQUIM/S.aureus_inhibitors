@@ -1,7 +1,7 @@
 ## 5.1 Machine Learning Models
 The next notebooks were used to construct machine learning (ML) models. Molecular fingerprints were calculated with MolFeat, but only Extended Connectivity Fingerprint (ECFP4) of radius = 2 and length of 2048 bits is shown in the notebooks. The fingerprints like Topological torsions, Functional Class Fingerprint (FCFP), Atompairs, Avalon, Layered, Pattern, and MACCS keys of 167-bits can be calculated with Molfeat library. The regressors used in the notebooks were Support Vector Regressor (SVR), Ridge linear Regressor (RR), and Random Forest Regressor (RFR) using Scikit-Learn library. These ML regressors were employed to calculate the predicted pIC<sub>50</sub> (ppIC<sub>50</sub>).
 
-Some scripts (notebooks 5.1 and 5.3) were adapted from Patrick Walters Github https://github.com/PatWalters/practical_cheminformatics_tutorials
+Some scripts (notebooks 5.1) were adapted from Patrick Walters Github https://github.com/PatWalters/practical_cheminformatics_tutorials
 
 ### 5.1 Descriptor and Fingerprint Calculations with Molfeat (the same script was used in *S. aureus* dataset).
 ### 5.2 Training SVR Model External Validation Using *S. aureus* Dataset
